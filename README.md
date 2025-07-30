@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Reetika Kushwaha!
 
-<!--
-**reetikakushwaha/reetikakushwaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 I'm a Full Stack Developer and C++/Java Enthusiast
+- 🔭 I’m currently working on a Spring Boot + React project
+- 🌱 I’m learning Advanced DSA and System Design
+- 📫 Reach me: reetika@example.com
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- 💻 Java, C++, Python
+- 🌐 HTML, CSS, JavaScript, React
+- 🛢️ MySQL, MongoDB
+- ⚙️ Git, GitHub, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats
+![Reetika's GitHub stats](https://github-readme-stats.vercel.app/api?username=reetikakushwaha&show_icons=true&theme=radical)
+
