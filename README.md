@@ -1,10 +1,10 @@
 <!-- Profile README for Reetika Kushwaha -->
 
 <h1 align="center">Hi 👋, I'm Reetika Kushwaha</h1>
-<h3 align="center">🌟 A Passionate Full Stack Developer | Java & C++ Enthusiast 🌟</h3>
+<h3 align="center">🌟 A Passionate Full Stack Developer | Java & C++ & C# Enthusiast 🌟</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=F76A05&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Spring+Boot+%7C+React+JS;Java+%7C+C%2B%2B+%7C+DSA+Lover;Learning+Everyday+%F0%9F%92%AF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=F76A05&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Spring+Boot+%7C+React+JS;Java+%7C+C%2B%2B+%7C+C%23+%7C+DSA+Lover;Learning+Everyday+%F0%9F%92%AF" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on a **Spring Boot + React E-commerce Project**
 - 🌱 I’m learning **Advanced DSA**, **System Design**, and **DevOps Tools**
-- 💬 Ask me about **Java, C++, JDBC, Hibernate, Spring Boot, React, SQL**
+- 💬 Ask me about **Java, C++, C#, JDBC, Hibernate, Spring Boot, React, SQL**
 - ⚡ Fun Fact: I can write recursive code faster than my coffee brews! ☕💻
 
 ---
@@ -23,7 +23,7 @@
 #### 💻 Programming Languages
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)
 
 #### 🌐 Frontend
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
@@ -35,6 +35,7 @@
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot)
 ![JDBC](https://img.shields.io/badge/-JDBC-006666?style=flat)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=dotnet)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
 
@@ -43,10 +44,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
 
 #### 🧰 Other Skills
-`Object-Oriented Programming (OOP)` • `Data Structures & Algorithms` • `SDLC Models` • `Agile` • `Software Testing` • `VCS` • `Exception Handling` • `REST API` • `JSON`
+`Object-Oriented Programming (OOP)` • `Data Structures & Algorithms` • `LINQ` • `Entity Framework` • `SDLC Models` • `Agile` • `Software Testing` • `Exception Handling` • `REST API` • `JSON`
 
 ---
 
