@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on a **Spring Boot + React E-commerce Project**
 - 🌱 I’m learning **Advanced DSA**, **System Design**, and **DevOps Tools**
 - 💬 Ask me about **Java, C++, C#, JDBC, Hibernate, Spring Boot, React, SQL**
-- ⚡ Fun Fact: I can write recursive code faster than my coffee brews! ☕💻
+
 
 ---
 
